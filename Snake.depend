@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1614758331 source:/home/pepsiduck/Bureau/Snake/main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_rotozoom.h>
+	<SDL/SDL_mixer.h>
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<algorithm>
+	<cstring>
+	<cstdio>
+
